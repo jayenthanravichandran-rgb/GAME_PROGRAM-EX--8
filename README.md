@@ -2,8 +2,8 @@
 
 # Landscape Creation and Foliage in Unreal Engine
 
-# NAME: JAIAKASH J
-# REG NO: 212225240055
+# NAME: JAYENTHAN R
+# REG NO: 212225240057
 
 ## Aim
 To create a landscape in Unreal Engine, apply a custom landscape material, and add foliage for realistic environment generation.
